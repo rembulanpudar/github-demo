@@ -1,0 +1,1 @@
+Ini isinya file txt untuk belajar git
